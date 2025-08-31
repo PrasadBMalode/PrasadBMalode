@@ -1,5 +1,4 @@
-/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p><h1 align="center">Hi 👋, I'm Sai Prasad</h1>
-<h3 align="center">I am currently Trainee @ X-WorkZ Software training Institution</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasadbmalode&label=Profile%20views&color=0e75b6&style=flat" alt="prasadbmalode" /> </p>
 
