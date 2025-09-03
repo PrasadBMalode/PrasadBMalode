@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sai Prasad BM</h1>
 <h3 align="center">"Learning today, building tomorrow"</h3>
-<img align="right" alt="coding" width="400" scr="<img width="680" height="428" alt="image" src="https://github.com/user-attachments/assets/b39b5598-a57e-4303-8871-b7b8b6637f01" />
->
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasadbmalode&label=Profile%20views&color=0e75b6&style=flat" alt="prasadbmalode" /> </p>
 
