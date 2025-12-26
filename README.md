@@ -1,5 +1,5 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhoomikab07&label=Profile%20views&color=0e75b6&style=flat" alt="prasadBMalode" />
-</p># 💫 Sai Prasad BM:
+ 💫 Sai Prasad BM:
+ 
 I'm currently under training as Java Full Stack Developer
 
 
