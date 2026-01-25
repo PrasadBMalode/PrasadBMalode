@@ -1,6 +1,6 @@
 <h1>Prasad Basavaraja Malode</h1> 
  
-<h2> I'm currently under training as Java Full Stack Developer... </h2>
+<h2>I'm currently under training as Java Full Stack Developer... </h2>
 
 
 ## 🌐 Socials:
