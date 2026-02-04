@@ -1,6 +1,8 @@
 ### 👀 
-![Profile Views](https://komarev.com/ghpvc/?username=PrasaadBMalode&label=Profile%20views&color=brightgreen&style=for-the-badge)
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=prasadbmalode&label=Profile%20Views&color=00bcd4&style=flat-square" alt="prasadbmalode" />
+</p>
 <h1>Prasad Basavaraja Malode</h1> 
 
  
