@@ -3,7 +3,10 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=prasadbmalode&label=Profile%20Views&color=00bcd4&style=flat-square" alt="prasadbmalode" />
 </p>
-<h1 style="color:#2F80ED;">Prasad Basavaraja Malode</h1>
+<h1>
+  <font color="blue">Prasad Basavaraja Malode</font>
+</h1>
+
 
  
 <h2>I'm currently under training as Java Full Stack Developer... </h2>
