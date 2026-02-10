@@ -4,9 +4,21 @@
   <img src="https://komarev.com/ghpvc/?username=prasadbmalode&label=Profile%20Views&color=00bcd4&style=flat-square" alt="prasadbmalode" />
 </p>
 
-<h1>
-  <font color="blue">Prasad Basavaraja Malode</font>
-</h1>
+
+<!-- <h1>
+  <span style="color:#00ADB5;">Prasad Basavaraja Malode</span>
+</h1> -->
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=28&pause=1000&color=007BFF&width=800&lines=Prasad+Basavaraja+Malode" />
+</p>
+
+<!-- <p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00ADB5&height=80&section=header&text=Prasad%20Basavaraja%20Malode&fontSize=32&fontColor=ffffff" />
+</p> -->
+
+
+
+
 
 
  
