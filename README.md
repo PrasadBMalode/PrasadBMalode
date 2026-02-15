@@ -8,6 +8,7 @@
 <!-- <h1>
   <span style="color:#00ADB5;">Prasad Basavaraja Malode</span>
 </h1> -->
+
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=38&pause=1000&color=007BFF&width=800&lines=Prasad+Basavaraja+Malode" />
 </p>
