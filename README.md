@@ -38,7 +38,7 @@
  ![JDBC](https://img.shields.io/badge/JDBC-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ![Servlet](https://img.shields.io/badge/Servlet-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
-![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white) ![CRUD Operation](https://img.shields.io/badge/🔄%20CRUD%20Operation-DC3545?style=for-the-badge&logo=database&logoColor=white)
 
 
 
