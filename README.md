@@ -1,7 +1,7 @@
-### 😎
+
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=prasadbmalode&label=Profile%20Views&color=00bcd4&style=flat-square" alt="prasadbmalode" />
+  👀  <img src="https://komarev.com/ghpvc/?username=prasadbmalode&label=Profile%20Views&color=00bcd4&style=flat-square" alt="prasadbmalode" />
 </p>
 
 
