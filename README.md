@@ -66,16 +66,15 @@
 
 ---
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrasadBMalode&theme=github_dark)
 
-![](https://github-readme-stats.vercel.app/api?username=PrasadBMalode&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=PrasadBMalode&show_icons=true&theme=tokyonight&hide_border=true)
 
-[![](https://streak-stats.demolab.com?user=PrasadBMalode&theme=ayu-mirage&hide_border=false&cache_seconds=0&v=1)
-](https://streak-stats.demolab.com?user=PrasadBMalode&theme=ayu-mirage&hide_border=false&v=2)
+![](https://streak-stats.demolab.com?user=PrasadBMalode&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrasadBMalode&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrasadBMalode&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
