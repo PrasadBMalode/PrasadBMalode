@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADB5,100:007BFF&height=120&section=header"/>
-</p>
+
 
 <p align="left">
   👀  <img src="https://komarev.com/ghpvc/?username=prasadbmalode&label=Profile%20Views&color=00bcd4&style=flat-square" alt="prasadbmalode" />
@@ -69,16 +67,10 @@
 ## 📊 GitHub Stats
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrasadBMalode&theme=github_dark)
-
-![](https://github-readme-stats.vercel.app/api?username=PrasadBMalode&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://streak-stats.demolab.com?user=PrasadBMalode&theme=tokyonight&hide_border=true)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrasadBMalode&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-# 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=PrasadBMalode&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
@@ -92,8 +84,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=PrasadBMalode&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:00ADB5&height=120&section=footer"/>
-</p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
