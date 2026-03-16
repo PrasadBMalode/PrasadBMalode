@@ -15,7 +15,7 @@
 # 👨‍💻 About Me
 - 🎓 Java Full Stack Developer Trainee  
 - 💻 Passionate about **Web Development & Backend Systems**
-- 🌱 Currently learning **Spring Framework & Advanced Java**
+- 🌱 Currently learning **Spring Framework, Project Modules & Advanced Java**
 - 🚀 Interested in building **scalable web applications**
 - 📫 Reach me: **prasadbm666@gmail.com**
 
