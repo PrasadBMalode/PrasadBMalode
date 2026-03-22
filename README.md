@@ -13,7 +13,7 @@
 ---
 
 # 👨‍💻 About Me
-- 🎓 Java Full Stack Developer Trainee  
+- 🎓 **Java Full Stack Developer Trainee**
 - 💻 Passionate about **Software Development & Backend Systems**
 - 🌱 Currently learning **Spring Framework, Project Modules & Advanced Java**
 - 🚀 Interested in building **scalable web applications**
