@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=38&pause=1000&color=007BFF&width=800&lines=Prasad+Basavaraja+Malode" />
 </p>
 
-<h2> I'm currently under training as Java Full Stack Developer</h2>
+<h2>Java Full Stack Developer</h2>
 
 ---
 
