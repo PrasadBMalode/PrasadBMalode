@@ -8,14 +8,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=38&pause=1000&color=007BFF&width=800&lines=Prasad+Basavaraja+Malode" />
 </p>
 
-<h2>Java Full Stack Developer</h2>
+<h2>Full Stack Developer</h2>
 
 ---
 
 #  About Me
--  **Java Full Stack Developer Trainee**
+-  **Java Full Stack Developer**
 -  Passionate about **Software Development & Backend Systems**
--  Currently learning **Spring Framework, Project Modules & Advanced Java**
+-  Currently learning **Spring Boot, Project Modules & Advanced Java**
 -  Interested in building **scalable web applications**
 -  Reach me: **prasadbm666@gmail.com**
 
