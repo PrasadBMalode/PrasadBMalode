@@ -13,7 +13,7 @@
 #  About Me
 -  **Java Full Stack Developer**
 -  Passionate about **Software Development & Backend Systems**
--  Currently learning **Spring Boot, Project Modules & Advanced Java**
+-  Currently learning **Spring Boot**
 -  Interested in building **scalable web applications**
 -  Reach me: **prasadbm666@gmail.com**
 
