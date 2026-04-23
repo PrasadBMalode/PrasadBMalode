@@ -9,7 +9,7 @@
 <h2>Full Stack Developer</h2>
 
 
-#  About 
+#  About:
 -  **Java Full Stack Developer**
 -  Passionate about **Software Development & Backend Systems**
 -  Currently learning **Spring Boot**
@@ -64,7 +64,7 @@
 
 ---
 
-## GitHub Stats
+## GitHub Stats:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrasadBMalode&theme=github_dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrasadBMalode&layout=compact&theme=tokyonight&hide_border=true)
@@ -76,7 +76,7 @@
 
 ---
 
-# Contribution Graph
+# Contribution Graph:
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=PrasadBMalode&theme=react-dark)
 
