@@ -9,7 +9,7 @@
 <h2>FULL STACK DEVELOPER...</h2>
 
 
-#  About :
+#  ABOUT :
 -  **Java Full Stack Developer**
 -  Passionate about **Software Development & Backend Systems**
 -  Currently learning **Spring Boot**
@@ -18,7 +18,7 @@
 
 ---
 
-## Socials :
+## SOCIALS :
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sai_prasad_bv?igsh=dGFxanl0cHNuZnA5) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prasad-basavaraja-malode-505a0a299?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prasadbm666@gmail.com)
@@ -27,12 +27,12 @@
 
 ---
 
-## Website :
+## WEBSITE:
 [![Portfolio](https://img.shields.io/badge/Portfolio-6A1B9A?logo=githubpages&logoColor=white)](https://prasadbmalode.github.io/)
 
 ---
 
-# Tech Skills:
+# TECH SKILLS:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -49,7 +49,7 @@
 
 ---
 
-# Tech Tools :
+# TECH TOOLS :
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-8E44AD?style=for-the-badge&logo=intellijidea&logoColor=white) 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
@@ -64,7 +64,7 @@
 
 ---
 
-## GitHub Stats :
+## GITHUB STATUS :
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrasadBMalode&theme=github_dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrasadBMalode&layout=compact&theme=tokyonight&hide_border=true)
@@ -76,7 +76,7 @@
 
 ---
 
-# Contribution Graph :
+# CONTRIBUTION GRAPH :
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=PrasadBMalode&theme=react-dark)
 
