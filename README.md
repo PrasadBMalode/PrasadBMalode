@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=38&pause=1000&color=007BFF&width=800&lines=Prasad+Basavaraja+Malode" />
 </p>
 
-<h2>FULL STACK DEVELOPER...</h2>
+<h2>Full Stack Developer...</h2>
 
 
 #  ABOUT :
