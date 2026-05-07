@@ -32,7 +32,7 @@
 
 ---
 
-# TECH SKILLS:
+## TECH SKILLS:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -49,7 +49,7 @@
 
 ---
 
-# TECH TOOLS :
+## TECH TOOLS :
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-8E44AD?style=for-the-badge&logo=intellijidea&logoColor=white) 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
@@ -76,7 +76,7 @@
 
 ---
 
-# CONTRIBUTION GRAPH :
+## CONTRIBUTION GRAPH :
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=PrasadBMalode&theme=react-dark)
 
