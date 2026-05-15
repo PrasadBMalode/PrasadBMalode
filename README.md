@@ -63,7 +63,6 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 ---
-
 ## GITHUB STATUS :
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrasadBMalode&theme=github_dark)
@@ -73,7 +72,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=PrasadBMalode&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-
 ## CONTRIBUTION GRAPH :
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=PrasadBMalode&theme=react-dark)
