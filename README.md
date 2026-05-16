@@ -8,7 +8,6 @@
 
 <h2>FULL STACK DEVELOPER</h2>
 
-
 ##  ABOUT :
 -  **Java Full Stack Developer**
 -  Passionate about **Software Development & Backend Systems**
@@ -17,7 +16,6 @@
 -  Reach me: **prasadbm666@gmail.com**
 
 ---
-
 ## SOCIALS :
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sai_prasad_bv?igsh=dGFxanl0cHNuZnA5) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prasad-basavaraja-malode-505a0a299?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
@@ -26,12 +24,10 @@
 
 
 ---
-
 ## WEBSITE:
 [![Portfolio](https://img.shields.io/badge/Portfolio-6A1B9A?logo=githubpages&logoColor=white)](https://prasadbmalode.github.io/)
 
 ---
-
 ## TECH SKILLS:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -48,7 +44,6 @@
 ![CRUD Operation](https://img.shields.io/badge/🔄%20CRUD%20Operation-DC3545?style=for-the-badge&logo=database&logoColor=white)
 
 ---
-
 ## TECH TOOLS :
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-8E44AD?style=for-the-badge&logo=intellijidea&logoColor=white) 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
