@@ -22,7 +22,6 @@
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prasadbm666@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/prasadbm666)
 
-
 ---
 ## WEBSITE:
 [![Portfolio](https://img.shields.io/badge/Portfolio-6A1B9A?logo=githubpages&logoColor=white)](https://prasadbmalode.github.io/)
