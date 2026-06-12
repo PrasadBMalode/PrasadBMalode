@@ -23,8 +23,9 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/prasadbm666)
 
 ---
-## WEBSITE:
+## PORTFOLIO / PROJECTS:
 [![Portfolio](https://img.shields.io/badge/Portfolio-6A1B9A?logo=githubpages&logoColor=white)](https://prasadbmalode.github.io/)
+[![Confynex](https://img.shields.io/badge/Confynex-46E3B7?logo=render&logoColor=black)](https://confynex.onrender.com/)
 
 ---
 ## TECH SKILLS :
