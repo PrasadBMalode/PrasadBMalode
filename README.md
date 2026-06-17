@@ -26,8 +26,6 @@
 ## PORTFOLIO / PROJECTS:
 [![Portfolio](https://img.shields.io/badge/Portfolio-6A1B9A?logo=githubpages&logoColor=white)](https://prasadbmalode.github.io/)
 
-
-
 ---
 ## TECH SKILLS :
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
