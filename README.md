@@ -74,6 +74,10 @@
 
 ## 🧰 Tech Tools
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 **IDEs & Editors**
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-8E44AD?style=for-the-badge&logo=intellijidea&logoColor=white)
@@ -88,6 +92,9 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+</td>
+<td valign="top" width="50%">
+
 **Build & Server Tools**
 
 ![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
@@ -98,6 +105,10 @@
 ![GitHub](https://img.shields.io/badge/GitHub-2ECC71?style=for-the-badge&logo=github&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
