@@ -99,10 +99,12 @@
 
 **Build & Server Tools**
 
+
 ![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 
 **Version Control & Design**
+
 
 ![GitHub](https://img.shields.io/badge/GitHub-2ECC71?style=for-the-badge&logo=github&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
