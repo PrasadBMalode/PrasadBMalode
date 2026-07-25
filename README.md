@@ -72,7 +72,6 @@
 ![CRUD Operation](https://img.shields.io/badge/🔄%20CRUD%20Operation-DC3545?style=for-the-badge&logo=database&logoColor=white)
 
 ---
-
 ## 🧰 Tech Tools
 
 <table>
