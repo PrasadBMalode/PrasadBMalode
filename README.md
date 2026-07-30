@@ -94,6 +94,7 @@
 ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </td>
+
 <td valign="top" width="50%">
 
 **Build & Server Tools**
