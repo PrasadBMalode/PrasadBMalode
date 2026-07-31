@@ -19,7 +19,6 @@
 - 📫 Reach me: **prasadbm666@gmail.com**
 
 ---
-
 ## 🔗 Connect With Me
 
 <p align="left">
