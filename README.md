@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=38&pause=1000&color=007BFF&width=800&lines=Prasad+Basavaraja+Malode" />
 
-### Full Stack Developer AND Software Developer
+### Full Stack Developer and Software Developer
 
 <img src="https://komarev.com/ghpvc/?username=prasadbmalode&label=Profile%20Views&color=00bcd4&style=flat-square" alt="prasadbmalode" />
 
