@@ -4,7 +4,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=prasadbmalode&label=Profile%20Views&color=00bcd4&style=flat-square" alt="prasadbmalode" />
 
-### 💼 Full Stack Developer | Software Developer | UX Designer 
+### 💼 Full Stack Developer | Software Developer |UI/UX Designer 
 
 
 <a href="https://www.instagram.com/sai_prasad_bv?igsh=dGFxanl0cHNuZnA5" target="_blank">
