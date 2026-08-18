@@ -29,13 +29,7 @@
 ---
 ## 👋 About Me
 
-```yaml
-name: Prasad Basavaraja Malode
-role: Java Full Stack Developer
-currently_learning: Spring Boot & Advanced UI/UX Design
-interests: Scalable Web Apps, Backend Systems, User-Centered Design
-email: prasadbm666@gmail.com
-```
+
 
 - 💻 **Java Full Stack Developer**, building end-to-end web applications
 - 🎨 Exploring **UX Design** to craft cleaner, more intuitive user experiences
