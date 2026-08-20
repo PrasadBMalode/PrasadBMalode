@@ -29,8 +29,6 @@
 ---
 ## 👋 About Me
 
-
-
 - 💻 **Java Full Stack Developer**, building end-to-end web applications
 - 🎨 Exploring **UX Design** to craft cleaner, more intuitive user experiences
 - 🚀 Passionate about **Software Development & Backend Systems**
