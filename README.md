@@ -1,5 +1,6 @@
 <div align="center">
 
+
 <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=38&pause=1000&color=007BFF&width=800&lines=Prasad+Basavaraja+Malode;Full+Stack+Developer;UI/UX-Designer" />
 
 <img src="https://komarev.com/ghpvc/?username=prasadbmalode&label=Profile%20Views&color=00bcd4&style=flat-square" alt="prasadbmalode" />
@@ -106,6 +107,7 @@
 <img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black" />
 
 **Design & Prototyping**
+
 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /><br>
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" /><br>
