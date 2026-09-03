@@ -77,7 +77,6 @@
 
 ## 🧰 Tech Tools
 
-
 <table>
 <tr>
 <td valign="top" width="50%">
