@@ -125,6 +125,7 @@
 <div align="center">
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrasadBMalode&theme=github_dark)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrasadBMalode&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
