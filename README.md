@@ -116,7 +116,9 @@
 <img src="https://img.shields.io/badge/GitHub-2ECC71?style=for-the-badge&logo=github&logoColor=white" />
 
 </td>
+
 </tr>
+
 </table>
 
 ---
