@@ -55,6 +55,7 @@
 ### 🎨 UX / UI Design
 
 <p>
+  
 <img src="https://img.shields.io/badge/UX%20Design-FF3366?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Wireframing-8E44AD?style=for-the-badge&logo=sketch&logoColor=white" />
