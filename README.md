@@ -78,8 +78,7 @@
 ## 🧰 Tech Tools
 
 <table>
-  
-<tr>
+  <tr>
   
 <td valign="top" width="50%">
 
